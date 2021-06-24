@@ -11,3 +11,11 @@ Once you've configured your machine for React-Native development. fun app to bui
  2. Install all the dependencies through node packet manager(NPM)
  3. Install dependencies (npm i)
  4. Run the metro bundler: expo start 
+
+# Prerequisite 
+ 1. Node Must be installed
+ 2. React Native mus be installed 
+
+## Visit those websites: 
+  1.https://reactnative.dev/docs/environment-setup
+  2. https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
